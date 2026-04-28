@@ -1,0 +1,37 @@
+{
+  "company": {
+    "name": "ТЕО",
+    "description": "Прямые поставки свежих эквадорских цветов по честной цене — не ради повода, а ради атмосферы дома.",
+    "legalName": "ИП Комогорцева Е.С.",
+    "copyright": "© 2026 ТЕО. Все права защищены"
+  },
+  "contacts": {
+    "phone": "8 000 000-00-00",
+    "phoneRaw": "80000000000",
+    "email": "s@teo2you.ru"
+  },
+  "socials": [
+    { "name": "Max", "icon": "fas fa-comments", "url": "#" }
+  ],
+  "nav": [
+    { "label": "Каталог", "href": "/v-2/catalog", "key": "catalog" },
+    { "label": "Доставка", "href": "/v-2/delivery", "key": "delivery" },
+    { "label": "О нас", "href": "/v-2/about", "key": "about" },
+    { "label": "Контакты", "href": "#contacts", "key": "contacts" }
+  ],
+  "footerCategories": [
+    { "label": "Моно", "href": "/v-2/catalog?category=TCG3H7XXWIOk5ewLytm0teo2y" },
+    { "label": "Дуо", "href": "/v-2/catalog?category=cByUA3NtQvHt5SdyCP00teo2y" },
+    { "label": "Трио", "href": "/v-2/catalog?category=2VmMRnz4gbHq00m3uyR0teo2y" },
+    { "label": "Кватро", "href": "/v-2/catalog?category=XhqRjlM18m3EgqrPMOZ0teo2y" },
+    { "label": "Охапки", "href": "/v-2/catalog?category=HCy5URYyRU9CxIOazl50teo2y" }
+  ],
+  "legal": [
+    { "label": "Политика конфиденциальности", "href": "/v-2/privacy" }
+  ],
+  "addons": [
+    { "id": "vase", "name": "Ваза", "priceAmount": 890, "icon": "fa-solid fa-wine-glass" },
+    { "id": "secateur", "name": "Секатор", "priceAmount": 490, "icon": "fa-solid fa-scissors" },
+    { "id": "photoalbum", "name": "Фотоальбом", "priceAmount": 1290, "icon": "fa-solid fa-book-open" }
+  ]
+}
